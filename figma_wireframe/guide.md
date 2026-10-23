@@ -8,9 +8,9 @@ All Milestone 2 asks for is that your group has a working Figma project and that
  
 Create one Figma project for your group and paste its link below. One link for the whole team, not one per person.
  
-**Figma project link:**
+**Figma project link:** https://www.figma.com/design/xfFHKgwsF7OyVmtUhFllmN/Untitled?node-id=0-1&t=evGP2PkyOqUpYixU-1
  
-**Who on the team created the Figma project:**
+**Who on the team created the Figma project:** Vinnie Dinwiddie
  
 Two things to get right now, because both are slow to fix later:
  
