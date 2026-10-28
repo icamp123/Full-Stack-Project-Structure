@@ -25,6 +25,10 @@
 **Q3b:** What are the usernames of each group member on that platform?  
 **Q3c:** What is your group's expected response time to messages?  
 
+**ANSWERS**
+Q3a: We will communicate via Discord. We will faciliate this through Direct messaging and voice calls.
+Q3b: Our usernames are RJ_25 - Jewel, 30cw1-0xn - Isaac, and Gerbil Party - Vinnie.
+Q3c: During business hours, within an hour. During off time, within 24 hours.
 **Example:**  
 *We will use Discord for communication*  
 
