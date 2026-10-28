@@ -5,6 +5,9 @@
 *We are available to meet online on weekends from 12pm-8pm (12-2pm Saturday + Sunday), as well as from 4pm-6pm on Fridays.*  
 *Our weekly meeting will be Thursday 11am-12pm.*  
 
+**Answer:**
+Our group would be avaiable to meet online on Fridays in the afternoon/evening. As well, we will have another weekly meeting during the weekend since we are most flexible then.
+
 ---
 
 # Timeline: Weekly Meeting Goals  
@@ -17,6 +20,10 @@
 
 *Prior to 11/20: Meet together weekly to target project weakpoints/bugs and possibly visit office hours to get guidance if the progress feels weak.*  
 
+**Answer:**
+Prior to 10/30: We plan to 
+By the time it 
+
 ---
 
 # Communication  
@@ -25,10 +32,6 @@
 **Q3b:** What are the usernames of each group member on that platform?  
 **Q3c:** What is your group's expected response time to messages?  
 
-**ANSWERS**
-Q3a: We will communicate via Discord. We will faciliate this through Direct messaging and voice calls.
-Q3b: Our usernames are RJ_25 - Jewel, 30cw1-0xn - Isaac, and Gerbil Party - Vinnie.
-Q3c: During business hours, within an hour. During off time, within 24 hours.
 **Example:**  
 *We will use Discord for communication*  
 
@@ -37,6 +40,11 @@ Q3c: During business hours, within an hour. During off time, within 24 hours.
 *Claudia - ninth.py*  
 *Mauricio - itsperi*  
 *Our expected response time will be within 12 hours.*  
+
+**Answer:**
+Q3a: We will communicate via Discord. We will faciliate this through Direct messaging and voice calls.
+Q3b: Our usernames are RJ_25 for Jewel, 30cw1-0xn for Isaac, and Gerbil Party for Vinnie.
+Q3c: During business hours, within an hour. During off time, within 24 hours.
 
 ---
 
@@ -59,16 +67,28 @@ Q3c: During business hours, within an hour. During off time, within 24 hours.
 **Example:**  
 *Mauricio - Backend, Justin - Project Lead, Claudia - Frontend.*  
 
+**Answer:**
+Vinnie has been designated as the Frontend specilist, Jewel has been appointed as the backend specialist, and I am just the projet support. Although this is a general idea of our individual directions, we plan total hands-on colloboration on all aspects of this project from everyone.
+
 ---
 
 # Tech Stacks
 
 **Q6:** Which tech stacks will your group use? (Django + React or Flask + React)
+We will be using Django + React. 
 
 ---
 # Full Stack Group Project Track  
 
 There are two tracks this semester. Come up with **two ideas in each track** (four ideas total), then pick one in the Idea Finalization section below.
+**Answer:**
+Idea 1: <need to fill in and the  next 3 as well>
+
+Idea 2:
+
+Idea 3:
+
+Idea 4:
 
 ---
 
