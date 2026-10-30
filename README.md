@@ -1,4 +1,4 @@
-<img width="764" height="524" alt="image" src="https://github.com/user-attachments/assets/ee0ef1ab-3b5a-45a1-9e87-f44329465970" /># Logistics  
+# Logistics  
 
 **Q1:** At what time in the week would your group be available to meet online?\
 **Answer:**
